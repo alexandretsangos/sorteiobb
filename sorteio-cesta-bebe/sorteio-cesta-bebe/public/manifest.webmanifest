@@ -1,0 +1,9 @@
+{
+  "name": "Sorteio Cesta Bebê",
+  "short_name": "Cesta Bebê",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7EF",
+  "theme_color": "#5D785E",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
